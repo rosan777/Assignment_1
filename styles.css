@@ -55,7 +55,7 @@ a:hover {
 
 #Quote {
     font-family: 'Times New Roman', Times, serif;
-    color: #cad2c5;
+    color: #000000;
     font-size: small;
 
 }
@@ -236,5 +236,5 @@ footer {
     margin-bottom: 0%;
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
-    color: #cad2c5;
+    color: #52796f;
 }
